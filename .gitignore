@@ -1,5 +1,5 @@
 /server/node_modules
 /server/uploads
 /server/db.json
-/frontend/build
-/frontend/node_modules
+/client/build
+/client/node_modules
