@@ -1,0 +1,54 @@
+{
+  "colonies": [
+    {
+      "name": "Professor colony",
+      "details": "On balsamand road",
+      "id": "1611092183467",
+      "map": "map.1611092183467.jpg"
+    },
+    {
+      "name": "Malik chowk",
+      "details": "On balsamand road",
+      "id": "1611092536261",
+      "map": "map.1611092536261.jpg"
+    }
+  ],
+  "plots": [
+    {
+      "plotNumber": "123",
+      "owner": "asdf",
+      "phoneNumber": "325345",
+      "area": "asdf",
+      "price": "1234",
+      "colonyId": "1611092183467",
+      "id": "1611096498496"
+    },
+    {
+      "area": "asdf",
+      "colonyId": "1611092183467",
+      "id": "1611096608527",
+      "owner": "adsf",
+      "phoneNumber": "1234",
+      "plotNumber": "1234",
+      "price": "1324"
+    },
+    {
+      "area": "zxcv",
+      "colonyId": "1611092536261",
+      "id": "1611097616792",
+      "owner": "zxcv",
+      "phoneNumber": "zxcv",
+      "plotNumber": "vcbzxc",
+      "price": "zxcv"
+    },
+    {
+      "area": "11111",
+      "colonyId": "1611092536261",
+      "id": "1611097675925",
+      "owner": "11",
+      "phoneNumber": "1",
+      "plotNumber": "111",
+      "price": "11111"
+    }
+  ]
+}
